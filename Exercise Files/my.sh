@@ -30,3 +30,6 @@ e=$((k+10))
 echo $e
 ((e++))
 echo $e
+
+f=$(echo 1/3 | bc -l)
+echo $f
