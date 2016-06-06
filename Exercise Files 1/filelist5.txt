@@ -1,0 +1,18 @@
+data_rain_evapo.csv
+departments
+dupes.txt
+filelist2.txt
+filelist4.txt
+filelist5.txt
+filelist.txt
+log.tar.gz
+mesiJ.txt
+newfile
+new_nano.txt
+new.txt
+poems.txt
+simple_data_orig.txt
+simple_data.txt
+test_copia.sh
+test.sh
+e aggiungo questo
